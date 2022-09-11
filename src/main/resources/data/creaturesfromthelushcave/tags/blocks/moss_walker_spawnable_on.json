@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:moss_block",
+    "minecraft:clay",
+    "minecraft:moss_carpet",
+    "minecraft:deepslate",
+    "minecraft:stone"
+  ]
+}

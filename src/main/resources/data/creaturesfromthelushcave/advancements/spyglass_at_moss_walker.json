@@ -1,0 +1,46 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:spyglass"
+    },
+    "title": {
+      "translate": "advancements.spyglass_at_moss_walker.title"
+    },
+    "description": {
+      "translate": "advancements.spyglass_at_moss_walker.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "minecraft:adventure/spyglass_at_ghast",
+  "criteria": {
+    "spyglass_at_dragon": {
+      "trigger": "minecraft:using_item",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "player": {
+                "looking_at": {
+                  "type": "creaturesfromthelushcave:moss_walker"
+                }
+              }
+            }
+          }
+        ],
+        "item": {
+          "items": [
+            "minecraft:spyglass"
+          ]
+        }
+      }
+    }
+  },
+  "rewards": {
+    "experience": 10
+  }
+}

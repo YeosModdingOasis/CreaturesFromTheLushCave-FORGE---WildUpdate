@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  2",
+    " 45",
+    "678"
+  ],
+  "key": {
+    "2": {
+      "item": "creaturesfromthelushcave:moss_bricks"
+    },
+    "4": {
+      "item": "creaturesfromthelushcave:moss_bricks"
+    },
+    "5": {
+      "item": "creaturesfromthelushcave:moss_bricks"
+    },
+    "6": {
+      "item": "creaturesfromthelushcave:moss_bricks"
+    },
+    "7": {
+      "item": "creaturesfromthelushcave:moss_bricks"
+    },
+    "8": {
+      "item": "creaturesfromthelushcave:moss_bricks"
+    }
+  },
+  "result": {
+    "item": "creaturesfromthelushcave:moss_bricks_stairs",
+    "count": 1
+  }
+}

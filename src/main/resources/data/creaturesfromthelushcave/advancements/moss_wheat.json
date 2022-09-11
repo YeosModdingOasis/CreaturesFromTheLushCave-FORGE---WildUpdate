@@ -1,0 +1,34 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "creaturesfromthelushcave:wheat_with_moss"
+    ]
+  },
+  "criteria": {
+    "has_mountain_buds": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:moss_block"
+            ]
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "steves_vanilla:wool"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_mountain_buds",
+      "has_the_recipe"
+    ]
+  ]
+}

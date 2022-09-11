@@ -1,0 +1,24 @@
+modLoader="javafml"
+loaderVersion="[40,)"
+license="All rights reserved"
+[[mods]]
+modId="creaturesfromthelushcave"
+version="1.0.0"
+displayName="Creatures from the Lush Cave"
+displayURL="https://www.curseforge.com/minecraft/mc-mods/creatures-from-the-lush-cave-forge"
+logoFile="logo.png"
+authors="YeoXuHang"
+description='''
+This mod brings many lush cave creatures, blocks, and items to your Minecraft world, cute...'''
+[[dependencies.creaturesfromthelushcave]]
+modId="forge"
+mandatory=true
+versionRange="[40,)"
+ordering="NONE"
+side="BOTH"
+[[dependencies.creaturesfromthelushcave]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.19.2,1.20)"
+ordering="NONE"
+side="BOTH"

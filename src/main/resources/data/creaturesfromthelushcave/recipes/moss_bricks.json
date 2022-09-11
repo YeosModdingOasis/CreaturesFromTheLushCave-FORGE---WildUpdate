@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:moss_block"
+    },
+    "1": {
+      "item": "minecraft:moss_block"
+    },
+    "2": {
+      "item": "minecraft:moss_block"
+    },
+    "3": {
+      "item": "minecraft:moss_block"
+    }
+  },
+  "result": {
+    "item": "creaturesfromthelushcave:moss_bricks",
+    "count": 1
+  }
+}

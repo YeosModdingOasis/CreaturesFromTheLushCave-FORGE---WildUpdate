@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/wall_inventory",
+  "textures": {
+    "wall": "creaturesfromthelushcave:block/moss_bricks",
+    "particle": "creaturesfromthelushcave:block/moss_bricks"
+  }
+}

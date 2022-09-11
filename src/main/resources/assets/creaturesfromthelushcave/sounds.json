@@ -1,0 +1,128 @@
+{
+  "moss_walker_idle": {
+    "category": "ambient",
+    "subtitle": "subtitles.moss_walker_idle",
+    "sounds": [
+      {
+        "name": "creaturesfromthelushcave:moss_walker/idle1",
+        "stream": false
+      },
+      {
+        "name": "creaturesfromthelushcave:moss_walker/idle2",
+        "stream": false
+      },
+      {
+        "name": "creaturesfromthelushcave:moss_walker/idle3",
+        "stream": false
+      },
+      {
+        "name": "creaturesfromthelushcave:moss_walker/idle4",
+        "stream": false
+      },
+      {
+        "name": "creaturesfromthelushcave:moss_walker/idle5",
+        "stream": false
+      },
+      {
+        "name": "creaturesfromthelushcave:moss_walker_idle6",
+        "stream": false
+      }
+    ]
+  },
+  "moss_walker_step": {
+    "category": "ambient",
+    "subtitle": "subtitles.moss_walker_step",
+    "sounds": [
+      {
+        "name": "creaturesfromthelushcave:moss_walker/step1",
+        "stream": false
+      },
+      {
+        "name": "creaturesfromthelushcave:moss_walker/step2",
+        "stream": false
+      },
+      {
+        "name": "creaturesfromthelushcave:moss_walker/step3",
+        "stream": false
+      },
+      {
+        "name": "creaturesfromthelushcave:moss_walker/step4",
+        "stream": false
+      },
+      {
+        "name": "creaturesfromthelushcave:moss_walker/step5",
+        "stream": false
+      }
+    ]
+  },
+  "moss_walker_hurt": {
+    "category": "ambient",
+    "subtitle": "subtitles.moss_walker_hurt",
+    "sounds": [
+      {
+        "name": "creaturesfromthelushcave:moss_walker/hurt1",
+        "stream": false
+      },
+      {
+        "name": "creaturesfromthelushcave:moss_walker/hurt2",
+        "stream": false
+      },
+      {
+        "name": "creaturesfromthelushcave:moss_walker/hurt3",
+        "stream": false
+      },
+      {
+        "name": "creaturesfromthelushcave:moss_walker/hurt4",
+        "stream": false
+      }
+    ]
+  },
+  "moss_walker_death": {
+    "category": "ambient",
+    "subtitle": "subtitles.moss_walker_death",
+    "sounds": [
+      {
+        "name": "creaturesfromthelushcave:moss_walker/death1",
+        "stream": false
+      },
+      {
+        "name": "creaturesfromthelushcave:moss_walker/death2",
+        "stream": false
+      },
+      {
+        "name": "creaturesfromthelushcave:moss_walker/death3",
+        "stream": false
+      },
+      {
+        "name": "creaturesfromthelushcave:moss_walker/death4",
+        "stream": false
+      }
+    ]
+  },
+  "azaleahog_idle": {
+    "category": "ambient",
+    "subtitle": "subtitles.azaleahog_idle",
+    "sounds": [
+      {
+        "name": "creaturesfromthelushcave:idle_air1",
+        "stream": false
+      },
+      {
+        "name": "creaturesfromthelushcave:idle_air2",
+        "stream": false
+      },
+      {
+        "name": "creaturesfromthelushcave:idle_air3",
+        "stream": false
+      },
+      {
+        "name": "creaturesfromthelushcave:idle_air4",
+        "stream": false
+      },
+      {
+        "name": "creaturesfromthelushcave:idle_air5",
+        "stream": false
+      }
+    ]
+  }
+}

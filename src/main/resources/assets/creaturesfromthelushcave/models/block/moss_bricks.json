@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "creaturesfromthelushcave:block/moss_bricks",
+    "up": "creaturesfromthelushcave:block/moss_bricks",
+    "north": "creaturesfromthelushcave:block/moss_bricks",
+    "east": "creaturesfromthelushcave:block/moss_bricks",
+    "south": "creaturesfromthelushcave:block/moss_bricks",
+    "west": "creaturesfromthelushcave:block/moss_bricks",
+    "particle": "creaturesfromthelushcave:block/moss_bricks"
+  }
+}

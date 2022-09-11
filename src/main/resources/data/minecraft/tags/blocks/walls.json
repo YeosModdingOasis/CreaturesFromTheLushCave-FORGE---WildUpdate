@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "creaturesfromthelushcave:moss_bricks_wall",
+    "creaturesfromthelushcave:moss_bricks",
+    "creaturesfromthelushcave:moss_bricks_slab",
+    "creaturesfromthelushcave:moss_bricks_stairs",
+    "creaturesfromthelushcave:moss_block_wall",
+    "minecraft:moss_block",
+    "creaturesfromthelushcave:moss_block_slab",
+    "creaturesfromthelushcave:moss_block_stairs"
+  ]
+}

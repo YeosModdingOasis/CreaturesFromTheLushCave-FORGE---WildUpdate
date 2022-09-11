@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:moss_block"
+    },
+    "3": {
+      "item": "minecraft:moss_block"
+    },
+    "4": {
+      "item": "minecraft:moss_block"
+    },
+    "6": {
+      "item": "minecraft:moss_block"
+    },
+    "7": {
+      "item": "minecraft:moss_block"
+    },
+    "8": {
+      "item": "minecraft:moss_block"
+    }
+  },
+  "result": {
+    "item": "creaturesfromthelushcave:moss_block_stairs",
+    "count": 1
+  }
+}

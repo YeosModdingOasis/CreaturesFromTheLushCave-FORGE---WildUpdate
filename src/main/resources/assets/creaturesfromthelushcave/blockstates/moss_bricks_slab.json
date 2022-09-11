@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "creaturesfromthelushcave:block/moss_bricks_slab"
+    },
+    "type=top": {
+      "model": "creaturesfromthelushcave:block/moss_bricks_slab_top"
+    },
+    "type=double": {
+      "model": "creaturesfromthelushcave:block/moss_bricks_slab_full"
+    }
+  }
+}

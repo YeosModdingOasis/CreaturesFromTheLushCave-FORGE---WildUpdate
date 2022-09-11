@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "bottom": "creaturesfromthelushcave:block/moss_block",
+    "top": "creaturesfromthelushcave:block/moss_block",
+    "side": "creaturesfromthelushcave:block/moss_block"
+  }
+}
