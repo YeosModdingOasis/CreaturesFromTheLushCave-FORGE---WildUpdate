@@ -21,7 +21,7 @@
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "steves_vanilla:wool"
+        "recipe": "creaturesfromthelushcave:wheat_with_moss"
       }
     }
   },
