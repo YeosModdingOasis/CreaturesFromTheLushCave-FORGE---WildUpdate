@@ -23,6 +23,7 @@ import net.minecraft.world.item.ItemStack;
 import net.minecraft.world.item.crafting.Ingredient;
 import net.minecraft.world.level.Level;
 import net.minecraft.world.level.LevelAccessor;
+import net.minecraft.world.level.LevelReader;
 import net.minecraft.world.level.ServerLevelAccessor;
 import net.minecraft.world.level.block.state.BlockState;
 
@@ -37,7 +38,11 @@ public class MossWalkerEntity extends Animal {
     }
 
     public static boolean checkWalkerSpawnRules(EntityType<MossWalkerEntity> mosswalker, LevelAccessor world, MobSpawnType spawnType, BlockPos pos, RandomSource random) {
-        return world.getBlockState(pos.below()).is(CreaturesFromTheLushCaveModTags.MOSS_WALKER_SPAWNABLE_ON) && isDarkEnoughToSpawn((ServerLevelAccessor) world, pos, random);
+        return world.getBlockState(pos.below()).is(CreaturesFromTheLushCaveModTags.MOSS_WALKER_SPAWNABLE_ON);
+    }
+
+    public float getWalkTargetValue(BlockPos blockPos, LevelReader world) {
+        return 0.0F;
     }
 
     public static AttributeSupplier setAttributes() {
